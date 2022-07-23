@@ -102,10 +102,10 @@ footer .inner address a,footer .inner .ad1 a{font-size: 12px;}
 #main_slider .inner .m_slider .m_wrap .m_item .main_txt .m_title{margin: 0; color: #fff; font-size: 40px;  text-align:center; font-family: GMbold; margin-bottom: 40px;}
 #main_slider .inner .m_slider .m_wrap .m_item .main_txt .m_subTxt{color: #fff; text-align: center; font-size: 16px; font-weight: 300; letter-spacing: 1.2px; margin-top: -10px; font-family: gmmedium; line-height: 1.4;}
 #main_slider .inner .m_slider .m_wrap .m_item .main_txt .consult_util{display: flex; align-items: center; justify-content: center; margin-top: 25px;}
-#main_slider .inner .m_slider .m_wrap .m_item .main_txt .consult_util .tel_consult{width: 170px ;background: #2e3192;   display: flex;  align-items: center;   padding: 10px; color: #fff; font-family: 'GMMEDIUM'; border-radius: 7px;cursor: pointer;justify-content: center; margin-right: 20px;}
+#main_slider .inner .m_slider .m_wrap .m_item .main_txt .consult_util .tel_consult{width: 170px ;background: #2e3192;   display: flex;  align-items: center;   padding: 10px; color: #fff; font-family: 'GMMEDIUM'; border-radius: 7px;cursor: pointer;justify-content: center; margin-right: 20px; position: relative; top: 125px;}
 #main_slider .inner .m_slider .m_wrap .m_item .main_txt .consult_util .tel_consult .c_icon{width: 21px; display: block; margin-right: 16px;}
 #main_slider .inner .m_slider .m_wrap .m_item .main_txt .consult_util .tel_consult .c_icon img{width: 100%;}
-#main_slider .inner .m_slider .m_wrap .m_item .main_txt .consult_util .kakao_consult{width: 170px; background: #fee500; display: flex; align-items: center;   padding: 10px; color: #191600; font-family: 'GMMEDIUM'; border-radius: 7px;cursor: pointer;justify-content: center;}
+#main_slider .inner .m_slider .m_wrap .m_item .main_txt .consult_util .kakao_consult{width: 170px; background: #fee500; display: flex; align-items: center;   padding: 10px; color: #191600; font-family: 'GMMEDIUM'; border-radius: 7px;cursor: pointer;justify-content: center; position: relative; top: 125px;}
 #main_slider .inner .m_slider .m_wrap .m_item .main_txt .consult_util .kakao_consult .c_icon{width: 21px; display: block; margin-right: 16px;}
 #main_slider .inner .m_slider .m_wrap .m_item .main_txt .consult_util .kakao_consult .c_icon img{width: 100%;}
 #main_slider .m_page{bottom: 50px !important;}
