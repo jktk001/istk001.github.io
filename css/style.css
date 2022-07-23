@@ -12,7 +12,7 @@
 *{font-family: 'GMLight', sans-serif;letter-spacing: 0px;word-break: keep-all;font-size: 14px}
 body,div,p,ul,li  {font-weight: normal;margin: 0; padding: 0;color: #333; box-sizing: border-box}
 html{min-height: 100%; position: relative;}
-body{padding-bottom: 170px;}
+body{padding-bottom: 170px; background-color: #D6B3AE;}
 
 a {cursor: pointer}
 a:link {color: #f6f6f6;text-decoration: none;}
@@ -109,8 +109,8 @@ footer .inner address a,footer .inner .ad1 a{font-size: 12px;}
 #main_slider .inner .m_slider .m_wrap .m_item .main_txt .consult_util .kakao_consult .c_icon{width: 21px; display: block; margin-right: 16px;}
 #main_slider .inner .m_slider .m_wrap .m_item .main_txt .consult_util .kakao_consult .c_icon img{width: 100%;}
 #main_slider .m_page{bottom: 50px !important;}
-#main_slider .m_page .swiper-pagination-bullet{ width: 20px; height: 20px; margin: 0 10px; background: #fff;}
-#main_slider .m_page .swiper-pagination-bullet-active{background: #fff;}
+#main_slider .m_page .swiper-pagination-bullet{ width: 20px; height: 20px; margin: 0 10px; background: #000;}
+#main_slider .m_page .swiper-pagination-bullet-active{background: #000;}
 
 
 .mt_01{padding: 60px 0;}
